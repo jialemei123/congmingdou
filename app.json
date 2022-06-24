@@ -1,0 +1,30 @@
+﻿{
+  "name": "BUdo2",
+  "description": "BUdo2",
+  "keywords": [
+    "BUdo2"
+  ],
+  "env": {
+    "PROTOCOL": {
+      "description": "minipvmessorvless",
+      "value": "vmess",
+      "required": true
+    },
+    "UUID": {
+      "description": "uID",
+      "value": "",
+      "required": false
+    },
+    "WS_PATH": {
+      "description": "websocketlj",
+      "value": "/ray",
+      "required": true
+    }
+  },
+  "website": "https://github.com/YeuaRwsh/v2ray-heroku",
+  "repository": "https://github.com/basketballsss/new",
+  "stack": "container",
+  "features": [
+    "runtime-dyno-metadata"
+  ]
+}
