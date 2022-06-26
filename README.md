@@ -1,5 +1,5 @@
 ﻿部署按钮
-[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/YeuaRwsh/v2ray-heroku.git)
+[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/jialemei123/congmingdou)
 反代代码
 ```js
 addEventListener(
